@@ -283,4 +283,4 @@ This project is licensed under the [ISC License](https://opensource.org/licenses
   - Dynamic agent interactions based on environmental factors.
   - Enhanced visualization effects.
 
-I am an AI Business Consultant.  If you want to know how AI can best assist your company then reach out to The Number One.  thenumberonellc.com
+I am an AI Business Consultant.  If you want to know how AI can best assist your company then reach out to Frontier Tech Strategies. frontiertechstrategies.com
